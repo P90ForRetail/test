@@ -1,3 +1,3 @@
 fn main() {
-    println!("eefsefasdifoijasejoifojaisjogvodfogilusrdglksdjlfkjnsdlflkdskjghnvdsiokjfloikdshtklierdjklgjdxkjnvksdjsfksdlkgdkljfxgkjsjlkofjoiariuwesoicjpgalkhtousrklhdf");
+    println!("eefsefasdifoijastklierdjklgjdxkjnvksdjsfksdlkgdkljfxgkjsjlkofjoiariuwesoicjpgalkhtousrklhdf");
 }
