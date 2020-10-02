@@ -1,0 +1,5 @@
+task something {
+    doLast {
+        println 'maybe this is a thing'
+    }
+}
