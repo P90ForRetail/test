@@ -1,13 +1,9 @@
-function badThing(potato)
-{
+function badThing(potato) {
     return potato;
 }
 
-if (true)
-{
+if (true) {
     //don't do the bad thing
-}
-else
-{
+} else {
     badThing(17);
 }
