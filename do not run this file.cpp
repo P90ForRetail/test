@@ -1,5 +1,6 @@
 int main() {
-	while (true) {
-		int x = new int;
+	bool something = true;
+	while (something) {
+		something = false;
 	}
 }
