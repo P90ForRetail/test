@@ -1,1 +1,3 @@
-print 'something'
+3.times do
+  print 'no '
+end
